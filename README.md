@@ -19,3 +19,7 @@ Use Case: Tou have a repository on your computer containing some code. How do yo
    ```
    git push
    ```
+
+## Git Branches
+
+-todo: write about git branches
